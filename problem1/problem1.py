@@ -1,3 +1,8 @@
+"""
+Finds the sum of all numbers under 1000.
+Original problem found here:
+https://projecteuler.net/problem=1
+"""
 n = 1000
 s = 0
 for x in range(0, n, 3):
